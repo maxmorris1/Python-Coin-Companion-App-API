@@ -1,0 +1,349 @@
+======================================================================
+SOLD LISTINGS - eBay Scraper Results
+======================================================================
+LEGEND:
+  ✓ INCLUDED IN STATS - Price was used in final statistics calculation
+  ○ Documented only - Listing recorded but not included in stats
+                      (e.g., price too low for rolls, invalid price)
+======================================================================
+
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee 2022 Two Dollar $2 Coloured Coin Rare Queen Honeybee Australia UNC🔥🐝Opens in a new window or tab
+Price: $7.66
+Date: Sold  Mar 8, 2026
+Link: https://www.ebay.com/itm/284972094978
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee 2022 Two Dollar $2 Coloured Coin Rare Queen Honeybee Australia CIRC 🐝Opens in a new window or tab
+Price: $5.59
+Date: Sold  Mar 4, 2026
+Link: https://www.ebay.com/itm/284993209354
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: 2022 Honey Bee $2 dollar 'C' Mintmark Uncirculated Coloured Coin In CardOpens in a new window or tab
+Price: $61.16
+Date: Sold  Feb 22, 2026
+Link: https://www.ebay.com/itm/406625361217
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: Australia 2022 C Mintmark Honey Bee Two Dollars $2 Coloured Coin PCGS MS67 #9322Opens in a new window or tab
+Price: $61.44
+Date: Sold  Feb 16, 2026
+Link: https://www.ebay.com/itm/235521769346
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee & Peacekeeping $2 Two Dollar 2022 Queen Coloured Coin Australia UNCOpens in a new window or tab
+Price: $9.49
+Date: Sold  Feb 10, 2026
+Link: https://www.ebay.com/itm/115783836383
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Honey Bee Commemorative Coin Queen Elizabeth IIOpens in a new window or tab
+Price: $10.00
+Date: Sold  Feb 8, 2026
+Link: https://www.ebay.com/itm/397560305722
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Australia 2 dollar $ Bee honey coin 2022 year colored ! Coin of the Year awardsOpens in a new window or tab
+Price: $24.99
+Date: Sold  Jan 23, 2026
+Link: https://www.ebay.com/itm/115971549099
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 $2 Honey Bee Ex RAM Roll Uncirculated Australian Two Dollar Colour CoinOpens in a new window or tab
+Price: $9.28
+Date: Sold  Feb 5, 2026
+Link: https://www.ebay.com/itm/167398585190
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Unique Australian $2 Dollar Coin 2022 Honey Bee CIRCULATEDOpens in a new window or tab
+Price: $4.92
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/306734569322
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Unique Australian $2 Dollar Coin 2022 Honey Bee CIRCULATEDOpens in a new window or tab
+Price: $4.57
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/306439362344
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2 Dollar Australian Honey Bee Coin Uncirculated  2022 CurrencyOpens in a new window or tab
+Price: $4.92
+Date: Sold  Dec 16, 2025
+Link: https://www.ebay.com/itm/397375837800
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Australia: 2022 $2 Australian Honey Bee Coloured $2 Coin in RAM CardOpens in a new window or tab
+Price: $35.14
+Date: Sold  Dec 16, 2025
+Link: https://www.ebay.com/itm/205919632624
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Australian Honey Bee $2 Coloured Uncirculated CoinOpens in a new window or tab
+Price: $7.02
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/127087228129
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Royal Australian Mint 🇦🇺 'Honey Bee' Colorized $2 Coin - USA SHIPPING🐝Opens in a new window or tab
+Price: $14.98
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/145819072049
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: 2022 Australia $2 'C' Mintmark AlBr Honey Bee Coloured Coin on CardOpens in a new window or tab
+Price: $52.73
+Date: Sold  Jan 13, 2026
+Link: https://www.ebay.com/itm/267005046997
+---
+[ROLL] ○ Documented only
+Title: 2022 Australian $2 Honey Bee Coin From Royal Australian Mint Roll BU UNCOpens in a new window or tab
+Price: $19.95
+Date: Sold  Jan 10, 2026
+Link: https://www.ebay.com/itm/236561121831
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022  Coloured $2 Uncirculated coin Honey BeeOpens in a new window or tab
+Price: $3.51
+Date: Sold  Feb 27, 2026
+Link: https://www.ebay.com/itm/147162514380
+---
+[ROLL] ○ Documented only
+Title: 2022 Australian $2 Honey Bee Coin From Royal Australian Mint Roll BU UNCOpens in a new window or tab
+Price: $20.00
+Date: Sold  Dec 24, 2025
+Link: https://www.ebay.com/itm/236156933745
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: HONEYBEE Coloured $2 ~ 1 x $2 coin ~ 2022 ~ Unc $2 ~ UNCIRCULATED in CAPSULEOpens in a new window or tab
+Price: $6.64
+Date: Sold  Jan 5, 2026
+Link: https://www.ebay.com/itm/389384380577
+---
+[PROOF] ✓ INCLUDED IN STATS
+Title: 2022 NIUE $1 HONEY BEE 1 oz Silver Proof Coin - LIMITED MINTAGE of 1000Opens in a new window or tab
+Price: $395.00
+Date: Sold  Dec 23, 2025
+Link: https://www.ebay.com/itm/197972896967
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 AC/BC $2 UNC Coloured Coin Australian Honey Bees PNCOpens in a new window or tab
+Price: $35.15
+Date: Sold  Jan 25, 2026
+Link: https://www.ebay.com/itm/406573730333
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: AUSTRALIAN: 2022 $2 HONEY BEE C MINTMARK UNC COIN ON CARD #M3907Opens in a new window or tab
+Price: $45.70
+Date: Sold  Mar 6, 2026
+Link: https://www.ebay.com/itm/117069524690
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: 2022-C Australia $2 Honey Bee Colorized MS66Opens in a new window or tab
+Price: $63.97
+Date: Sold  Jan 12, 2026
+Link: https://www.ebay.com/itm/406488937247
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Australia $2 Honey Bee Uncirculated Coin on Card – RAM Collectable UNC #1Opens in a new window or tab
+Price: $32.94
+Date: Sold  Dec 9, 2025
+Link: https://www.ebay.com/itm/297743257858
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: 2022-C Australia $2 Honey Bee Colorized MS66Opens in a new window or tab
+Price: $45.43
+Date: Sold  Jan 17, 2026
+Link: https://www.ebay.com/itm/406506082337
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee 2022 Two Dollar $2 Coloured Coin Rare Queen Honeybee Australia UNC🔥🐝Opens in a new window or tab
+Price: $7.66
+Date: Sold  Mar 8, 2026
+Link: https://www.ebay.com/itm/284972094978
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee 2022 Two Dollar $2 Coloured Coin Rare Queen Honeybee Australia CIRC 🐝Opens in a new window or tab
+Price: $5.59
+Date: Sold  Mar 4, 2026
+Link: https://www.ebay.com/itm/284993209354
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: 2022 Honey Bee $2 dollar 'C' Mintmark Uncirculated Coloured Coin In CardOpens in a new window or tab
+Price: $61.16
+Date: Sold  Feb 22, 2026
+Link: https://www.ebay.com/itm/406625361217
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: Australia 2022 C Mintmark Honey Bee Two Dollars $2 Coloured Coin PCGS MS67 #9322Opens in a new window or tab
+Price: $61.44
+Date: Sold  Feb 16, 2026
+Link: https://www.ebay.com/itm/235521769346
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Honey Bee & Peacekeeping $2 Two Dollar 2022 Queen Coloured Coin Australia UNCOpens in a new window or tab
+Price: $9.49
+Date: Sold  Feb 10, 2026
+Link: https://www.ebay.com/itm/115783836383
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Honey Bee Commemorative Coin Queen Elizabeth IIOpens in a new window or tab
+Price: $10.00
+Date: Sold  Feb 8, 2026
+Link: https://www.ebay.com/itm/397560305722
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Australia 2 dollar $ Bee honey coin 2022 year colored ! Coin of the Year awardsOpens in a new window or tab
+Price: $24.99
+Date: Sold  Jan 23, 2026
+Link: https://www.ebay.com/itm/115971549099
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 $2 Honey Bee Ex RAM Roll Uncirculated Australian Two Dollar Colour CoinOpens in a new window or tab
+Price: $9.28
+Date: Sold  Feb 5, 2026
+Link: https://www.ebay.com/itm/167398585190
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Unique Australian $2 Dollar Coin 2022 Honey Bee CIRCULATEDOpens in a new window or tab
+Price: $4.92
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/306734569322
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Unique Australian $2 Dollar Coin 2022 Honey Bee CIRCULATEDOpens in a new window or tab
+Price: $4.57
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/306439362344
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2 Dollar Australian Honey Bee Coin Uncirculated  2022 CurrencyOpens in a new window or tab
+Price: $4.92
+Date: Sold  Dec 16, 2025
+Link: https://www.ebay.com/itm/397375837800
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: Australia: 2022 $2 Australian Honey Bee Coloured $2 Coin in RAM CardOpens in a new window or tab
+Price: $35.14
+Date: Sold  Dec 16, 2025
+Link: https://www.ebay.com/itm/205919632624
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Australian Honey Bee $2 Coloured Uncirculated CoinOpens in a new window or tab
+Price: $7.02
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/127087228129
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Royal Australian Mint 🇦🇺 'Honey Bee' Colorized $2 Coin - USA SHIPPING🐝Opens in a new window or tab
+Price: $14.98
+Date: Sold  Jan 27, 2026
+Link: https://www.ebay.com/itm/145819072049
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: 2022 Australia $2 'C' Mintmark AlBr Honey Bee Coloured Coin on CardOpens in a new window or tab
+Price: $52.73
+Date: Sold  Jan 13, 2026
+Link: https://www.ebay.com/itm/267005046997
+---
+[ROLL] ○ Documented only
+Title: 2022 Australian $2 Honey Bee Coin From Royal Australian Mint Roll BU UNCOpens in a new window or tab
+Price: $19.95
+Date: Sold  Jan 10, 2026
+Link: https://www.ebay.com/itm/236561121831
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022  Coloured $2 Uncirculated coin Honey BeeOpens in a new window or tab
+Price: $3.51
+Date: Sold  Feb 27, 2026
+Link: https://www.ebay.com/itm/147162514380
+---
+[ROLL] ○ Documented only
+Title: 2022 Australian $2 Honey Bee Coin From Royal Australian Mint Roll BU UNCOpens in a new window or tab
+Price: $20.00
+Date: Sold  Dec 24, 2025
+Link: https://www.ebay.com/itm/236156933745
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: HONEYBEE Coloured $2 ~ 1 x $2 coin ~ 2022 ~ Unc $2 ~ UNCIRCULATED in CAPSULEOpens in a new window or tab
+Price: $6.64
+Date: Sold  Jan 5, 2026
+Link: https://www.ebay.com/itm/389384380577
+---
+[PROOF] ✓ INCLUDED IN STATS
+Title: 2022 NIUE $1 HONEY BEE 1 oz Silver Proof Coin - LIMITED MINTAGE of 1000Opens in a new window or tab
+Price: $395.00
+Date: Sold  Dec 23, 2025
+Link: https://www.ebay.com/itm/197972896967
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 AC/BC $2 UNC Coloured Coin Australian Honey Bees PNCOpens in a new window or tab
+Price: $35.15
+Date: Sold  Jan 25, 2026
+Link: https://www.ebay.com/itm/406573730333
+---
+[MINT MARK] ✓ INCLUDED IN STATS
+Title: AUSTRALIAN: 2022 $2 HONEY BEE C MINTMARK UNC COIN ON CARD #M3907Opens in a new window or tab
+Price: $45.70
+Date: Sold  Mar 6, 2026
+Link: https://www.ebay.com/itm/117069524690
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: 2022-C Australia $2 Honey Bee Colorized MS66Opens in a new window or tab
+Price: $63.97
+Date: Sold  Jan 12, 2026
+Link: https://www.ebay.com/itm/406488937247
+---
+[RAW] ✓ INCLUDED IN STATS
+Title: 2022 Australia $2 Honey Bee Uncirculated Coin on Card – RAM Collectable UNC #1Opens in a new window or tab
+Price: $32.94
+Date: Sold  Dec 9, 2025
+Link: https://www.ebay.com/itm/297743257858
+---
+[GRADED] ✓ INCLUDED IN STATS
+Title: 2022-C Australia $2 Honey Bee Colorized MS66Opens in a new window or tab
+Price: $45.43
+Date: Sold  Jan 17, 2026
+Link: https://www.ebay.com/itm/406506082337
+---
+
+========================================
+💎 PROOF COINS (SILVER, GOLD, RAM PROOF)
+========================================
+Count: 1
+Lowest Price: AU$600.4
+Highest Price: AU$600.4
+Average (Mean): AU$600.4
+Median: AU$600.4
+
+========================================
+⭐ GRADED COINS (PCGS/NGC/ETC)
+========================================
+Count: 3
+Lowest Price: AU$69.05
+Highest Price: AU$97.23
+Average (Mean): AU$86.56
+Median: AU$93.39
+
+========================================
+🏛️ MINTMARK COINS (C/S/M/B/A)
+========================================
+Count: 3
+Lowest Price: AU$69.46
+Highest Price: AU$92.96
+Average (Mean): AU$80.86
+Median: AU$80.15
+
+========================================
+📌 RAW COINS (STANDARD CIRCULATION)
+========================================
+Count: 15
+Lowest Price: AU$5.34
+Highest Price: AU$53.43
+Average (Mean): AU$21.47
+Median: AU$14.11
+
+========================================
+Note: Skipped lots, bulk purchases, and sets
+Categories detected automatically from listing titles

@@ -1,0 +1,340 @@
+AUSTRALIAN COIN ERRORS & VARIETIES
+================================================================================
+
+This file contains all known minting errors and varieties for Australian 
+decimal coinage (1966-2026). Error coins are highly collectible and can be 
+worth significantly more than face value.
+
+================================================================================
+MAJOR DENOMINATION-SPECIFIC ERRORS
+================================================================================
+
+5 CENT ERRORS:
+--------------------------------------------------------------------------------
+
+1. 1972 5c "NO SD" ERROR
+   Year: 1972
+   Description: Missing "SD" designer initials (Stuart Devlin)
+   Value: $50-$200+
+   Rarity: Uncommon - only some 1972 5c coins affected
+   How to identify: Check for absence of "SD" on reverse near echidna
+   Keywords: 1972 5c, no SD, missing initials, Stuart Devlin error
+
+2. 1981 5c DIE CRACK
+   Year: 1981
+   Description: Prominent die crack across echidna design
+   Value: $10-$50
+   Rarity: Moderate
+   Keywords: 1981 5c, die crack, echidna variety
+
+50 CENT ERRORS:
+--------------------------------------------------------------------------------
+
+3. 1966 50c ROUND SILVER (NOT AN ERROR - DESIGN CHANGE)
+   Year: 1966-1967
+   Description: Round 80% silver design, replaced in 1969 with dodecagonal
+   Value: $10-$50+ (due to silver content and rarity, not error)
+   Notes: Withdrawn after silver price rose, not a minting error
+   Keywords: 1966 50c, round 50c, silver 50c, 80% silver
+
+4. 2000 50c INCUSE FLAG ERROR
+   Year: 2000
+   Description: Flag design struck with inverted relief on some coins
+   Value: $30-$150
+   Rarity: Rare
+   Keywords: 2000 50c, incuse flag, millennium error
+
+5. 2019 50c "FROSTED" ANZAC
+   Year: 2019
+   Description: Frosted finish variety (may be intentional proof-like finish)
+   Value: $30-$100+
+   Rarity: Uncommon
+   How to identify: Matte/frosted appearance vs regular glossy finish
+   Keywords: 2019 50c, frosted ANZAC, ANZAC variety, proof-like
+
+$1 DOLLAR ERRORS:
+--------------------------------------------------------------------------------
+
+6. 2000 $1/$10 MULE ERROR
+   Year: 2000
+   Description: $1 coin struck with 10c reverse die (year 2000)
+   Value: $1,000-$3,000+
+   Rarity: EXTREMELY RARE - less than 10 known examples
+   How to identify: $1 coin with lyrebird design instead of kangaroos
+   Keywords: 2000 mule, dollar ten cent mule, $1 $10 mule, lyrebird dollar
+
+7. 2007 $1 DOUBLE OBVERSE
+   Year: 2007
+   Description: Double headed - two obverse sides
+   Value: $2,000-$5,000+
+   Rarity: EXTREMELY RARE
+   Keywords: 2007 double header, $1 double obverse, two heads
+
+$2 DOLLAR ERRORS:
+--------------------------------------------------------------------------------
+
+8. 2012 $2 RED POPPY MINTMARK VARIETIES
+   Year: 2012
+   Description: Various mintmark combinations and missing mintmarks
+   Value: $100-$500+ depending on variety
+   Rarity: Rare
+   Keywords: 2012 red poppy, poppy mintmark, $2 red poppy variety
+
+9. 1988 $2 UNKNOWN VARIETY
+   Year: 1988
+   Description: First year variety with subtle design differences
+   Value: $10-$30
+   Rarity: Moderately rare
+   Keywords: 1988 $2 variety, aboriginal elder variety
+
+================================================================================
+GENERAL MINTING ERRORS (ALL DENOMINATIONS)
+================================================================================
+
+DOUBLE STRIKE ERRORS:
+--------------------------------------------------------------------------------
+Description: Coin struck twice, creating doubled image
+Affected: All denominations, any year
+Value: $100-$2,000+ depending on denomination and clarity
+Rarity: Very rare
+How to identify: Doubled design elements, often offset
+Keywords: double strike, double struck, struck twice
+
+DOUBLE HEADER / DOUBLE TAIL ERRORS:
+--------------------------------------------------------------------------------
+Description: Both sides show same face (two heads or two tails)
+Affected: All denominations, any year
+Value: $500-$5,000+ depending on denomination
+Rarity: Extremely rare
+How to identify: Identical sides or both obverse/both reverse
+Keywords: double header, double tail, two heads, two tails, wrong die
+
+OFF-CENTER STRIKES:
+--------------------------------------------------------------------------------
+Description: Coin struck off-center, showing blank planchet area
+Affected: All denominations, any year
+Value: $50-$500+ depending on percentage off-center
+Rarity: Rare (10% off-center), Very rare (50%+ off-center)
+How to identify: Design shifted with blank curved edge visible
+Keywords: off-center, misaligned strike, shifted strike
+
+CLIPPED PLANCHET:
+--------------------------------------------------------------------------------
+Description: Coin missing curved section from planchet cutting error
+Affected: All denominations, any year
+Value: $30-$300+ depending on size of clip
+Rarity: Uncommon to rare
+How to identify: Crescent-shaped missing section, straight or curved clip
+Keywords: clipped planchet, clipped coin, blank clip, straight clip
+
+STRUCK-THROUGH ERRORS:
+--------------------------------------------------------------------------------
+Description: Foreign object between die and coin during striking
+Affected: All denominations, any year
+Value: $20-$500+ depending on clarity and object
+Rarity: Uncommon
+How to identify: Ghost image, fabric texture, or smooth blank area
+Types: Grease-filled die, cloth, debris, capped die
+Keywords: struck through, filled die, grease strike, capped die
+
+DIE CRACKS & CUDS:
+--------------------------------------------------------------------------------
+Description: Raised lines from cracked dies, or "cud" blob from die break
+Affected: All denominations, any year
+Value: $10-$200+ depending on prominence
+Rarity: Common (minor cracks), Uncommon (major cracks), Rare (cuds)
+How to identify: Raised line(s) or blob of metal on coin surface
+Keywords: die crack, cud, die break, retained cud
+
+BROADSTRIKE:
+--------------------------------------------------------------------------------
+Description: Coin struck without collar, resulting in oversized diameter
+Affected: All denominations, any year
+Value: $100-$800+ depending on denomination
+Rarity: Rare
+How to identify: Larger than normal diameter, thin appearance
+Keywords: broadstrike, no collar, expanded coin
+
+WRONG PLANCHET ERRORS:
+--------------------------------------------------------------------------------
+Description: Coin struck on planchet intended for different denomination
+Affected: All denominations, any year
+Value: $500-$10,000+ depending on combination
+Rarity: Extremely rare
+Examples:
+  - 10c on 5c planchet
+  - 20c on 10c planchet
+  - $1 on 10c planchet (the famous 2000 mule)
+Keywords: wrong planchet, wrong stock, planchet error
+
+MISSING CLAD LAYER:
+--------------------------------------------------------------------------------
+Description: One or both cladding layers missing, exposing copper core
+Affected: Clad coins (5c, 10c, 20c, 50c)
+Value: $100-$1,000+
+Rarity: Very rare
+How to identify: Copper color showing through, wrong color, thin coin
+Types: Missing obverse clad, missing reverse clad, missing both layers
+Keywords: missing clad, delamination, clad error, peeling
+
+LAMINATION ERRORS:
+--------------------------------------------------------------------------------
+Description: Metal layers separating or flaking off
+Affected: All denominations, any year
+Value: $20-$300+ depending on severity
+Rarity: Uncommon
+How to identify: Peeling metal, flaky surface, layered appearance
+Keywords: lamination, peeling, flaking, delamination
+
+BROCKAGE:
+--------------------------------------------------------------------------------
+Description: Previous coin's impression stamped onto next coin (mirror image)
+Affected: All denominations, any year
+Value: $200-$2,000+
+Rarity: Very rare
+How to identify: Mirror/negative image on one side
+Keywords: brockage, mirror strike, negative image
+
+ROTATED DIE:
+--------------------------------------------------------------------------------
+Description: Reverse die rotated relative to obverse (medal vs coin alignment)
+Affected: All denominations, any year
+Value: $50-$500+ depending on rotation degree
+Rarity: Uncommon (slight rotation), Rare (90°+ rotation)
+How to identify: Reverse not aligned with obverse when flipped vertically
+Note: Australian coins should have "coin alignment" (180° rotation)
+Keywords: rotated die, misaligned die, medal alignment
+
+WEAK STRIKE / INSUFFICIENT PRESSURE:
+--------------------------------------------------------------------------------
+Description: Coin not fully struck, missing detail in high points
+Affected: All denominations, any year
+Value: $10-$100 (lower value unless extreme)
+Rarity: Common (slight), Uncommon (severe)
+How to identify: Flat or missing design elements, weak detail
+Keywords: weak strike, greased die, worn die, insufficient strike
+
+================================================================================
+HOW TO AUTHENTICATE ERROR COINS
+================================================================================
+
+GENUINE ERRORS WILL HAVE:
+✓ Mint luster (if uncirculated)
+✓ Consistent wear pattern (if circulated)
+✓ Proper weight and composition
+✓ Reeded edge consistent with denomination
+✓ Authentic design elements
+
+RED FLAGS FOR FAKE/ALTERED COINS:
+✗ Scratched or damaged reeding
+✗ Signs of tooling or drilling
+✗ Added metal or solder
+✗ Artificial coloring or plating
+✗ Filed edges
+✗ Wrong weight or magnetic properties (Australian coins non-magnetic except $1/$2)
+
+GET EXPERT VERIFICATION:
+For high-value errors ($500+), always get authentication from:
+- PCGS (Professional Coin Grading Service)
+- NGC (Numismatic Guaranty Corporation)
+- ANDA (Australasian Numismatic Dealers Association members)
+
+================================================================================
+VALUE FACTORS FOR ERROR COINS
+================================================================================
+
+MOST VALUABLE:
+1. Wrong planchet/Mule errors
+2. Double denomination errors
+3. Major off-center (50%+ with full date visible)
+4. Broadstrikes on higher denominations
+5. Brockage errors
+
+MODERATELY VALUABLE:
+1. Minor off-center (10-40%)
+2. Struck-through with clear detail
+3. Major die cracks/cuds
+4. Clipped planchets (large clips)
+5. Rotated dies (significant rotation)
+
+LOWER VALUE (but still collectible):
+1. Minor die cracks
+2. Small clips
+3. Weak strikes
+4. Lamination errors
+5. Minor varieties
+
+CONDITION MATTERS:
+- Uncirculated errors: 2x-5x value of circulated
+- Original luster preserved: Premium value
+- Cleaned coins: Significantly reduced value
+- Damaged errors: Minimal premium over face value
+
+================================================================================
+WHERE TO SELL/BUY ERROR COINS
+================================================================================
+
+SELLING:
+• Online: eBay, Gumtree (Australia)
+• Dealers: ANDA member dealers
+• Auctions: Downies, Noble Numismatics, Coinworks
+• Forums: Australian Coin Forum, Reddit r/AustralianCoins
+• Shows: Coin shows and numismatic conventions
+
+BUYING:
+• Same venues as selling
+• Always request clear photos showing error
+• Ask for authentication for expensive errors
+• Buy from reputable dealers for high-value errors
+• Join coin clubs for networking and advice
+
+================================================================================
+SEARCH TERMS FOR FINDING ERRORS
+================================================================================
+
+When searching online (eBay, Gumtree, etc.), use these terms:
+• "[Year] [Denomination] error"
+• "Australian coin minting error"
+• "Off-center Australian coin"
+• "Double strike [denomination]"
+• "[Year] [Denomination] variety"
+• "Mule error Australian"
+• "Struck through error"
+• "Die crack [denomination]"
+
+Remember: Many sellers misidentify normal wear or damage as errors.
+Always verify before purchasing.
+
+================================================================================
+RESOURCES FOR ERROR COIN COLLECTORS
+================================================================================
+
+BOOKS:
+• "The Australian Coin & Banknote Values" (annual publication)
+• "Pocket Guide to Australian Coins & Banknotes"
+• "Error Coins" by Arnold Margolis
+
+WEBSITES:
+• Royal Australian Mint (www.ramint.gov.au)
+• Australian Numismatic Dealers Association (www.anda.com.au)
+• Downies (www.downies.com)
+
+GRADING SERVICES:
+• PCGS (www.pcgs.com)
+• NGC (www.ngccoin.com)
+
+COMMUNITIES:
+• Australian Coin Forum
+• Reddit: r/AustralianCoins, r/CoinErrors
+• Facebook: Australian Coin Collectors groups
+
+================================================================================
+NOTES:
+- Not all variations are errors (commemoratives, mintmarks are intentional)
+- Environmental damage (PMD - Post Mint Damage) has no premium value
+- Dryer coins, magician's coins, and novelty items are not mint errors
+- When in doubt, consult an expert before making expensive purchases
+- Keep error coins in protective holders to preserve condition
+- Document your finds with clear photos and descriptions
+
+Last Updated: March 9, 2026

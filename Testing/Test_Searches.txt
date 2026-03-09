@@ -1,0 +1,78 @@
+EBAY SCRAPER TEST SEARCHES
+================================================================================
+Copy and paste these into the scraper to test different features
+================================================================================
+
+BASIC TESTS (High Volume):
+--------------------------
+Australian 50 cent
+Australian 2 dollar coin
+Australia $1 coin
+
+
+ERROR COINS (Tests error detection):
+------------------------------------
+1972 5 cent no SD
+Australian coin double strike
+2000 mule $1 dollar
+Australian coin off center
+
+
+MINTMARK TESTS (Tests mintmark detection):
+------------------------------------------
+2022 honey bee mintmark
+2018 $1 mintmark C
+Australian $2 C mintmark
+
+
+POPULAR COLLECTIBLES (Should find results):
+-------------------------------------------
+2012 red poppy $2
+2020 firefighters $2
+1966 round 50 cent silver
+2013 purple coronation $2
+
+
+YEAR-SPECIFIC (Tests year filtering):
+-------------------------------------
+1966 australian 50 cent
+1984 $1 coin australia
+2001 federation 50 cent
+
+
+GRADED & PROOF (Tests special categories):
+------------------------------------------
+Australian coin PCGS
+Australian proof $2
+NGC graded Australian dollar
+
+
+DENOMINATION RECOGNITION (Tests animal/design names):
+-----------------------------------------------------
+australian echidna coin
+lyrebird 10 cent
+platypus 20 cent
+kangaroo $1 australia
+
+
+QUICK 5-SEARCH TEST SET:
+------------------------
+1. Australian 50 cent           (baseline high volume)
+2. 2012 red poppy $2            (popular collectible)
+3. 1972 5 cent no SD            (known error)
+4. 2022 honey bee mintmark      (modern mintmark)
+5. 1966 round 50 cent silver    (historic valuable)
+
+
+WHAT TO EXPECT:
+---------------
+• High volume: 20+ results per page
+• Moderate volume: 5-15 results per page
+• Low volume: 1-5 results per page
+• Rare items: May have 0 results (this is normal)
+
+• Error coins should tag as [ERROR]
+• Mintmark coins should tag as [MINT MARK]
+• Graded coins should tag as [GRADED]
+• Proof coins should tag as [PROOF]
+• Standard coins should tag as [RAW]
