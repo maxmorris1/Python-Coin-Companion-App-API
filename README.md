@@ -137,7 +137,9 @@ Content-Type: application/json
 
 ## 💻 Usage Examples
 
-### Python
+### Using the API (Recommended)
+
+#### Python
 ```python
 import requests
 
@@ -157,7 +159,7 @@ if data['raw_coins']:
     print(f"Raw coins average: AU${data['raw_coins']['average']}")
 ```
 
-### cURL
+#### cURL
 ```bash
 curl -X POST "http://localhost:8000/scrape" \
   -H "Content-Type: application/json" \
@@ -167,7 +169,7 @@ curl -X POST "http://localhost:8000/scrape" \
   }'
 ```
 
-### JavaScript/Fetch
+#### JavaScript/Fetch
 ```javascript
 const response = await fetch('http://localhost:8000/scrape', {
   method: 'POST',
@@ -180,6 +182,32 @@ const response = await fetch('http://localhost:8000/scrape', {
 
 const data = await response.json();
 console.log(`Average price: AU$${data.raw_coins?.average}`);
+```
+
+### Using the Scraper Module Directly
+
+You can also import and use the scraper in your own Python scripts:
+
+```python
+from coin_scraper import scrape_ebay_coin
+
+# Scrape directly without the API
+results = scrape_ebay_coin(
+    search_item="1966 Australian 50 cent",
+    num_pages=2,
+    usd_to_aud_rate=1.52
+)
+
+print(f"Search: {results['search_query']}")
+print(f"Year: {results['detected_year']}")
+print(f"Denomination: {results['detected_denomination']}")
+
+if results['raw_coins']:
+    stats = results['raw_coins']
+    print(f"\nRaw Coins:")
+    print(f"  Average: AU${stats['average']}")
+    print(f"  Median: AU${stats['median']}")
+    print(f"  Range: AU${stats['lowest_price']} - AU${stats['highest_price']}")
 ```
 
 ## 🧪 Testing
@@ -198,7 +226,8 @@ This will:
 ## 📁 Project Structure
 
 ```
-├── api.py                          # FastAPI server
+├── api.py                          # FastAPI endpoints (clean API layer)
+├── coin_scraper.py                 # eBay scraping logic (core functionality)
 ├── api_control.ps1                 # Windows control script
 ├── test_api.py                     # Example client & tests
 ├── requirements.txt                # Python dependencies
@@ -209,6 +238,19 @@ This will:
 ├── Australian_Coins_Catalog/       # Detailed coin information
 └── README.md                       # This file
 ```
+
+### Architecture
+
+The project follows a **separation of concerns** design:
+
+- **`api.py`**: Clean FastAPI endpoints that handle HTTP requests/responses
+- **`coin_scraper.py`**: Core scraping logic - can be used independently or via API
+- **Communication flow**: API receives request → calls `scrape_ebay_coin()` → returns results
+
+This modular design allows you to:
+- Use the scraper directly in Python scripts without the API
+- Maintain and test scraping logic separately
+- Easily swap or upgrade components
 
 ## 🎯 Coin Categories Explained
 
