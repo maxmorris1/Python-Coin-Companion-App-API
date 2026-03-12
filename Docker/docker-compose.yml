@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: coin-scraper-api
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount the current directory for live code updates
+      - .:/app
+      # Exclude Python cache files
+      - /app/__pycache__
+    environment:
+      - PYTHONUNBUFFERED=1
+      - CHROME_BIN=/usr/bin/google-chrome
+    restart: unless-stopped
+    # Security options needed for Chrome
+    cap_add:
+      - SYS_ADMIN
+    shm_size: 2gb
+    command: uvicorn api:app --host 0.0.0.0 --port 8000 --reload

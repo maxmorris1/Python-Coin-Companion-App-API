@@ -16,3 +16,10 @@ The front end is going to need to look good - this can be made with textual - it
  - a page that will allow me to add coins
  - a page that will allow me to see my collection and its pricing
  - a page that will let me see the stats of a specific coin
+
+
+
+ the api to spreasheet needs:
+ the coin lists split into categories 
+ i need to single out the links of the coins that prices are closest to the median/average price
+ i will need to get photos of all types of coins (all denominations, proof sets, silver proof coins and a example photo for rolls)

@@ -12,14 +12,39 @@ A FastAPI-based REST API for scraping and analyzing eBay sold listings for Austr
 
 ## Installation
 
+### Option 1: Docker (Recommended)
+
+1. Make sure Docker and Docker Compose are installed on your system
+2. Navigate to the API directory:
+```bash
+cd API
+```
+
+3. Build and run with Docker Compose:
+```bash
+docker-compose up --build
+```
+
+The API will be available at `http://localhost:8000`
+
+To run in detached mode (background):
+```bash
+docker-compose up -d
+```
+
+To stop the API:
+```bash
+docker-compose down
+```
+
+### Option 2: Local Installation
+
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Running the API
-
-Start the server:
+2. Start the server:
 ```bash
 uvicorn api:app --reload
 ```
